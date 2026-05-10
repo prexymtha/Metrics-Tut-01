@@ -12,7 +12,7 @@ Data is obtained from FRED as follows:
 
 ``` r
 library(fredr)
-fredr_set_key("f287f35d692bc08c79b8d88c6ee3ba2d")
+fredr_set_key("INSERT OWN API KEY") # I removed your personal API for security reasons , see comments sent via email.
 
 start_date <- as.Date("2000-01-01")
 
